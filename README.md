@@ -9,6 +9,8 @@ In the learning journey of AWS DeepRacer, i felt need of Log analysis of my mode
 
 ![route taken by DeepRacer](https://github.com/GoSleepBelall/AWSDeepRacer/blob/ae29f404bcd2e24880254cb5089091a9c082b015/Log%20Analysis/track_followed.png)
 
+![image](https://user-images.githubusercontent.com/86932331/221384153-4a8aa1a4-ed81-437e-a605-0c223bdd2da2.png)
+
 To analyze your routes:
 - just download LOG files from AWS DeepRacer
 - copy path of: ```logs > training > *-robomaker.log``` file and paste it in code
