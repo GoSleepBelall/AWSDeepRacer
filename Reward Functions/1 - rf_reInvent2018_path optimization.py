@@ -1,6 +1,7 @@
 # This Reward Function is for Track re:Invent 2018
 # The function focus on the position of DeepRacer on the track (when to stay on left side and vice versa)
 # The function also focuses on the high speed positions in the track when the track path is STRAIGHT
+# The reward function is not considered to be an optimal solution
 
 def reward_function(params):
     ################## INPUT PARAMETERS ###################
