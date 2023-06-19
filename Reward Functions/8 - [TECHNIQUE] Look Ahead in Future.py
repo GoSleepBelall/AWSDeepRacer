@@ -56,5 +56,5 @@ def reward_function(params):
 
     optimal_path = get_line_points(x, y, x_forward, y_forward)
 
-    # ... perform your operations
+    # Now that you have optimal path, you can perform your operations
     return reward
