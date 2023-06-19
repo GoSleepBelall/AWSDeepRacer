@@ -1,5 +1,4 @@
 # This Steps and Speed Threshold is decided for Roger Ring track, You can change to make it generic
-# This is the most Stable model I've ever created, follow the track to it maximum possible effort,
 # Try to take stable turns and keeps record of previous step
 """
 Differences:
